@@ -1,0 +1,4 @@
+venv/          # Your virtual environment folder
+.env           # Your secret environment variables
+__pycache__/   # Python cache files
+*.pyc
