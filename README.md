@@ -11,7 +11,7 @@ pip install -r requirements.txt
 
 2. Create a `.env` file in the project folder:
 
-CITY=YourCityName
+## CITY=YourCityName
 
 
 3. Run the script:
